@@ -1,5 +1,5 @@
 start_message = """
-Добро пожаловать в OLTsHUB Telegram Bot.
+Добро пожаловать в OLTsHUB MAX Bot.
 
 Краткая справка 📝:
 
@@ -18,7 +18,7 @@ start_message = """
 help_message = """
 <code>/login user</code> - команда для входа в приложение, 
 на ОЛТхабе должен быть создан пользователь с таким логином, 
-и добавлен telegram id для него.
+и добавлен max id для него.
 
 <code>/olt_info id</code> - Показывает информацию о конкретном ОЛТе
 ID ОЛТа можно посмотреть в списке ОЛТов /olts_list
